@@ -1,0 +1,13 @@
+2019-07-26 06:48:26 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingMonitor']}
+2019-07-26 06:48:27 INFO admin GET 200 /api/v1/athlete/matchs/23 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-07-26 06:48:29 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'TrainingMonitor']}
+2019-07-26 06:48:29 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'TreatmentPlan']}
+2019-07-26 06:48:29 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'BodyMonitor']}
+2019-07-26 06:48:29 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-26 06:48:29 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-26 06:48:34 INFO admin GET 200 /api/v1/athlete/report/ranking/23 {}
+2019-07-26 06:48:34 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingProgram']}
+2019-07-26 06:48:35 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-26 06:48:56 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'AnalysisReport']}
+2019-07-26 06:48:56 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'BodyMonitor']}
+2019-07-26 08:56:28 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}

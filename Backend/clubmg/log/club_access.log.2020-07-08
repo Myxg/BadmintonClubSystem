@@ -1,0 +1,16 @@
+2020-07-09 13:58:46 INFO shenyang GET 200 /api/v1/companylist {}
+2020-07-09 13:59:02 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-07-09 13:59:02 INFO shenyang GET 200 /api/v1/companylist {}
+2020-07-09 13:59:43 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-07-09 14:02:20 INFO shenyang GET 200 /api/v1/companylist {}
+2020-07-09 14:02:23 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u4e54\u666e\u62c9']}
+2020-07-09 14:02:24 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-07-09 14:02:42 INFO shenyang GET 200 /api/v1/companylist {}
+2020-07-09 14:02:50 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u83b1\u6069']}
+2020-07-09 14:02:53 INFO shenyang GET 200 /api/v1/companylist {}
+2020-07-09 14:04:31 INFO shenyang GET 200 /api/v1/companylist {}
+2020-07-09 14:04:34 INFO shenyang GET 200 /api/v1/companylist {}
+2020-07-09 14:04:50 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-07-09 14:04:57 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u514b\u91cc\u65af\u6258']}
+2020-07-09 14:04:57 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u514b\u91cc\u65af\u6258']}
+2020-07-09 14:05:11 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u6ce2']}

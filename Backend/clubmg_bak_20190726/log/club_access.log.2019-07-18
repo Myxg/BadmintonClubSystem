@@ -1,0 +1,163 @@
+2019-07-19 08:15:59 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-19 08:15:59 INFO admin GET 200 /api/v1/athlete/report/ranking/23 {}
+2019-07-19 08:15:59 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-19 08:15:59 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingProgram']}
+2019-07-19 08:16:19 INFO admin GET 200 /api/v1/docs/SportmanSummary/ {u'dir': [u'']}
+2019-07-19 08:19:05 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-19 08:21:12 INFO AnonymousUser POST 200 /api/v1/token-auth {u'username': u'admin', u'password': u'admin123456'} {"status_code":0,"username":"admin","id":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ6aHV6aHVAYWRtaW4uY29tIiwiZXhwIjoxNTYzNTgyMDcyfQ.f7dmzXSbIXt_kvXCWW7M8N6kVyi5ysB6x_-HybZuht4","expires_at":"2019-07-20T08:21:12.111053","issued_at":"2019-07-19T08:21:12.111063"}
+2019-07-19 08:37:05 INFO admin GET 200 /api/v1/matchinfo/report/hits/sum {u'action': [u'0'], u'game': [u'0'], u'line': [u'0'], u'match_id': [u'2019_0531_0000']}
+2019-07-19 08:37:05 INFO admin GET 200 /api/v1/matchinfo/report/scores/table {u'table_type': [u'time'], u'match_id': [u'2019_0531_0000']}
+2019-07-19 08:37:06 INFO admin GET 200 /api/v1/matchinfo/report/scores/table {u'table_type': [u'beat'], u'match_id': [u'2019_0531_0000']}
+2019-07-19 08:37:18 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 08:37:19 INFO admin GET 200 /api/v1/athlete/report/ranking/23 {}
+2019-07-19 08:37:19 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'AnalysisReport']}
+2019-07-19 08:37:19 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingProgram']}
+2019-07-19 08:37:19 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'08fa638e854e6cac1dcabde05ea0902f'], u'fitness_item_id': [u'C201']}
+2019-07-19 08:37:19 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'08fa638e854e6cac1dcabde05ea0902f'], u'fitness_item_id': [u'C001']}
+2019-07-19 08:45:48 INFO AnonymousUser POST 200 /api/v1/token-auth {u'username': u'admin', u'password': u'admin123456'} {"status_code":0,"username":"admin","id":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ6aHV6aHVAYWRtaW4uY29tIiwiZXhwIjoxNTYzNTgzNTQ4fQ.VRecqH_hlIsTVDGomHvi4IwN2Tpn02ODnl4QC4Tes88","expires_at":"2019-07-20T08:45:48.869678","issued_at":"2019-07-19T08:45:48.869692"}
+2019-07-19 08:48:15 INFO AnonymousUser POST 200 /api/v1/token-auth {u'username': u'admin', u'password': u'admin123456'} {"status_code":0,"username":"admin","id":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ6aHV6aHVAYWRtaW4uY29tIiwiZXhwIjoxNTYzNTgzNjk1fQ.XQrXadgOxA07d-65iqcAIL0juDkCPgFWpDNjNys9Vuo","expires_at":"2019-07-20T08:48:15.199891","issued_at":"2019-07-19T08:48:15.199901"}
+2019-07-19 09:17:56 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-19 09:30:42 INFO AnonymousUser POST 200 /api/v1/token-auth {u'username': u'admin', u'password': u'admin123456'} {"status_code":0,"username":"admin","id":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ6aHV6aHVAYWRtaW4uY29tIiwiZXhwIjoxNTYzNTg2MjQyfQ.UaWKnCHSM_FTrgaoMfh8Z3r9QTeCn5y3Q4rAvSpIvsI","expires_at":"2019-07-20T09:30:42.106075","issued_at":"2019-07-19T09:30:42.106085"}
+2019-07-19 09:31:27 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u5355']}
+2019-07-19 09:32:18 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u7537\u5355']}
+2019-07-19 09:32:55 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 09:33:25 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u5973\u5355']}
+2019-07-19 09:33:37 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-19 09:33:37 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u5355']}
+2019-07-19 10:04:09 INFO AnonymousUser POST 200 /api/v1/token-auth {u'username': u'admin', u'password': u'admin123456'} {"status_code":0,"username":"admin","id":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ6aHV6aHVAYWRtaW4uY29tIiwiZXhwIjoxNTYzNTg4MjQ5fQ.nwW1SD6GrqGocRX0dYq5HVExkwXNRnRRkL5Jk4IeI7w","expires_at":"2019-07-20T10:04:09.064596","issued_at":"2019-07-19T10:04:09.064605"}
+2019-07-19 10:04:14 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 10:04:37 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 10:04:58 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 10:05:01 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-19 10:08:35 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 10:08:36 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 10:08:40 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 10:08:56 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":767,"match_type":"女双","athlete_id":"bc99c86223e5af97cd5db6e4c08591c8 273c9297ca8ca788e2ba5e1cd45e086a","athlete":"金昭映 孔熙容","ranking":7,"points":15935,"announcemented_at":"2019-07-16T00:00:00","created_at":"2019-07-19T10:08:56","updated_at":"2019-07-19T10:08:56"}}
+2019-07-19 10:08:56 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 10:16:14 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u53cc']}
+2019-07-19 10:16:16 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u53cc']}
+2019-07-19 10:19:08 INFO admin GET 200 /api/v1/docs/InternalRanking/ {u'dir': [u'']}
+2019-07-19 10:19:19 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u5973\u5355']}
+2019-07-19 10:19:25 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-19 10:19:48 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u53cc']}
+2019-07-19 10:27:22 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-19 10:27:23 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u6df7\u53cc']}
+2019-07-19 10:40:27 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u53cc']}
+2019-07-19 11:07:31 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:07:43 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:11:50 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:12:09 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:12:49 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:18:14 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:18:18 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:18:30 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":1278,"match_type":"混双","athlete_id":"d5a3cb796dad457792c7d8980d1332cb 276f61d45d211a2d3f714cf28d6c9fdf","athlete":"王懿律 黄东萍","ranking":2,"announcemented_at":"2019-07-16T00:00:00","created_at":"2019-07-19T11:18:31","updated_at":"2019-07-19T11:18:31"}}
+2019-07-19 11:18:31 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:18:35 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:18:46 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:18:50 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:18:58 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:19:07 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:19:14 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:19:20 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:19:29 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:19:56 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:20:45 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:20:50 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:21:13 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:21:15 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:21:30 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:21:44 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:22:03 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:23:46 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 11:29:24 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:30:32 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:32:00 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 11:32:13 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:33:47 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 11:34:23 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 12:48:54 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 12:59:10 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 13:03:54 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-19 13:05:19 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-19 13:10:21 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 13:11:41 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-19 13:34:27 INFO admin PUT 200 /api/v1/athlete/0 {} {"msg":"成功","status_code":0,"data":{"id":474,"athlete_id":"bcf52d751fd05e2b69f93739bc781fe8","company_id":"","company_name":"","name":"安洗莹","english_name":"AN Se Young","gender":"女","profile_photo":"clubstatic/img/athlete/default-photo.png","nationality":"","native_place":"","folk":"汉族","birthday":"1998-05-15T00:00:00","sport_project":"女单","hand_held":"右手","sport_level":"特级","initial_training_time":"2000-01-01T00:00:00","first_coach":"","pro_team_coach":"","nat_team_coach":"","group":[],"sport_events":[],"created_at":"2019-07-19T13:34:27","updated_at":"2019-07-19T13:34:27"}}
+2019-07-19 13:47:23 ERROR admin DELETE 400 /api/v1/athlete/244 {} {"msg":"删除失败","status_code":1005,"data":"","detail":["删除失败"]}
+2019-07-19 13:50:07 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u6cd5']}
+2019-07-19 13:50:42 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 14:02:33 INFO admin GET 200 /api/v1/athlete/groups {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-19 14:15:34 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 14:15:52 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 14:15:58 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 14:16:31 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 14:18:19 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 14:19:29 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 14:20:24 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 14:21:29 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 14:21:33 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 14:21:46 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-19 14:22:22 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 14:23:07 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 14:30:07 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 14:30:11 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 14:48:45 INFO admin GET 200 /api/v1/athlete/groups {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-19 15:00:47 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 15:01:18 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 15:07:01 INFO admin PUT 200 /api/v1/athlete/0 {} {"msg":"成功","status_code":0,"data":{"id":502,"athlete_id":"30b1cda5be6dff4e7413cfb877c6ea43","company_id":"","company_name":"","name":"久保田友之祐","english_name":"Yunosuke KUBOTA","gender":"男","profile_photo":"clubstatic/img/athlete/default-photo.png","nationality":"","native_place":"","folk":"汉族","birthday":"1999-08-18T00:00:00","sport_project":"男双","hand_held":"右手","sport_level":"特级","initial_training_time":"2000-01-01T00:00:00","first_coach":"","pro_team_coach":"","nat_team_coach":"","group":[],"sport_events":[],"created_at":"2019-07-19T15:07:02","updated_at":"2019-07-19T15:07:02"}}
+2019-07-19 15:07:10 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 15:07:16 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:07:18 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:07:49 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 15:09:08 INFO admin GET 200 /api/v1/athlete/418 {}
+2019-07-19 15:09:19 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 15:09:27 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:09:58 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:11:11 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 15:11:42 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":813,"match_type":"男双","athlete_id":"70fecd1021466e40e6fcb5174364acf7 9807b855ff2d283b5e09462e04d11185","athlete":"中村弘树 小野寺雅之","ranking":11,"points":14000,"announcemented_at":"2019-07-16T00:00:00","created_at":"2019-07-19T15:11:42","updated_at":"2019-07-19T15:11:42"}}
+2019-07-19 15:11:42 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:12:11 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 15:12:36 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:12:45 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:13:21 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:13:49 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:14:37 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 15:14:42 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:14:43 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:15:00 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 15:51:10 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 15:52:12 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 16:03:16 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-19 16:03:46 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 16:04:56 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:05:26 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:06:29 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 16:06:32 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:06:58 INFO admin GET 200 /api/v1/companylist {}
+2019-07-19 16:25:33 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-19 16:27:20 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-19 16:27:53 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:29:59 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:30:39 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 16:32:18 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:32:44 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 16:44:23 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u53cc']}
+2019-07-19 16:46:35 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 16:56:46 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:56:47 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 16:57:34 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-19 16:58:56 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-19 17:01:32 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u6df7\u53cc']}
+2019-07-19 17:19:02 INFO admin GET 200 /api/v1/athlete/matchs/23 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-07-19 17:19:02 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-19 17:19:02 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'SportmanSummary']}
+2019-07-19 17:19:02 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-19 17:19:12 INFO admin GET 200 /api/v1/athlete/37 {}
+2019-07-19 17:19:12 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'DiningStatistics']}
+2019-07-19 18:29:10 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'3bd7b0ffacac3cdab796627c2d3b69b8'], u'fitness_item_id': [u'C001']}
+2019-07-19 18:29:10 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'3bd7b0ffacac3cdab796627c2d3b69b8'], u'fitness_item_id': [u'C017']}
+2019-07-19 18:29:10 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'3bd7b0ffacac3cdab796627c2d3b69b8'], u'fitness_item_id': [u'C027']}
+2019-07-19 18:29:43 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingMonitor']}
+2019-07-19 18:29:43 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'DiningStatistics']}
+2019-07-19 18:29:47 INFO admin GET 200 /api/v1/athlete/matchs/11 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-07-19 18:29:48 INFO admin GET 200 /api/v1/athlete/linkdocs/11 {u'module_id': [u'BodyMonitor']}
+2019-07-19 18:29:48 INFO admin GET 200 /api/v1/athlete/fitness/items {}

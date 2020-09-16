@@ -1,0 +1,75 @@
+2019-06-29 21:58:55 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'99999']}
+2019-06-29 21:58:56 INFO admin GET 200 /api/v1/athlete/overview/23 {}
+2019-06-29 21:58:56 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TreatmentPlan']}
+2019-06-29 21:58:56 INFO admin GET 200 /api/v1/athlete/matchs/23 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 21:58:58 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'TrainingMonitor']}
+2019-06-29 21:58:58 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'AnalysisReport']}
+2019-06-29 21:58:58 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'TreatmentPlan']}
+2019-06-29 21:58:59 INFO admin GET 200 /api/v1/athlete/overview/40 {}
+2019-06-29 21:58:59 INFO admin GET 200 /api/v1/athlete/linkdocs/40 {u'module_id': [u'AnalysisReport']}
+2019-06-29 21:59:00 INFO admin GET 200 /api/v1/athlete/linkdocs/40 {u'module_id': [u'DiningStatistics']}
+2019-06-29 21:59:00 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-06-29 21:59:01 INFO admin GET 200 /api/v1/athlete/41 {}
+2019-06-29 21:59:01 INFO admin GET 200 /api/v1/athlete/linkdocs/41 {u'module_id': [u'TreatmentPlan']}
+2019-06-29 21:59:01 INFO admin GET 200 /api/v1/athlete/linkdocs/41 {u'module_id': [u'DiningStatistics']}
+2019-06-29 21:59:04 INFO admin GET 200 /api/v1/athlete/linkdocs/42 {u'module_id': [u'TrainingMonitor']}
+2019-06-29 21:59:05 INFO admin GET 200 /api/v1/athlete/report/ranking/43 {}
+2019-06-29 21:59:05 INFO admin GET 200 /api/v1/athlete/linkdocs/43 {u'module_id': [u'DiningStatistics']}
+2019-06-29 21:59:05 INFO admin GET 200 /api/v1/athlete/matchs/43 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 21:59:07 INFO admin GET 200 /api/v1/athlete/overview/49 {}
+2019-06-29 21:59:07 INFO admin GET 200 /api/v1/athlete/matchs/49 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 21:59:07 INFO admin GET 200 /api/v1/athlete/matchs/49 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 21:59:08 INFO admin GET 200 /api/v1/athlete/report/ranking/50 {}
+2019-06-29 21:59:08 INFO admin GET 200 /api/v1/athlete/linkdocs/50 {u'module_id': [u'TrainingMonitor']}
+2019-06-29 21:59:08 INFO admin GET 200 /api/v1/athlete/linkdocs/50 {u'module_id': [u'BodyMonitor']}
+2019-06-29 21:59:12 INFO admin GET 200 /api/v1/athlete/overview/11 {}
+2019-06-29 21:59:12 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-06-29 21:59:12 INFO admin GET 200 /api/v1/athlete/linkdocs/11 {u'module_id': [u'BodyMonitor']}
+2019-06-29 21:59:12 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-06-29 21:59:45 INFO admin GET 200 /api/v1/athlete/matchs/89 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 21:59:46 INFO admin GET 200 /api/v1/athlete/linkdocs/89 {u'module_id': [u'DiningStatistics']}
+2019-06-29 21:59:48 INFO admin GET 200 /api/v1/athlete/overview/90 {}
+2019-06-29 21:59:48 INFO admin GET 200 /api/v1/athlete/linkdocs/90 {u'module_id': [u'AnalysisReport']}
+2019-06-29 21:59:48 INFO admin GET 200 /api/v1/athlete/linkdocs/90 {u'module_id': [u'TrainingProgram']}
+2019-06-29 21:59:50 INFO admin GET 200 /api/v1/athlete/report/ranking/91 {}
+2019-06-29 21:59:50 INFO admin GET 200 /api/v1/athlete/linkdocs/91 {u'module_id': [u'TrainingMonitor']}
+2019-06-29 21:59:50 INFO admin GET 200 /api/v1/athlete/linkdocs/91 {u'module_id': [u'BodyMonitor']}
+2019-06-29 21:59:52 INFO admin GET 200 /api/v1/athlete/matchs/92 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 21:59:53 INFO admin GET 200 /api/v1/athlete/linkdocs/92 {u'module_id': [u'BodyMonitor']}
+2019-06-29 21:59:55 INFO admin GET 200 /api/v1/athlete/report/ranking/94 {}
+2019-06-29 21:59:55 INFO admin GET 200 /api/v1/athlete/linkdocs/94 {u'module_id': [u'BodyMonitor']}
+2019-06-29 21:59:56 INFO admin GET 200 /api/v1/athlete/matchs/95 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 21:59:59 INFO admin GET 200 /api/v1/athlete/overview/96 {}
+2019-06-29 21:59:59 INFO admin GET 200 /api/v1/athlete/matchs/96 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 22:00:02 INFO admin GET 200 /api/v1/athlete/report/ranking/97 {}
+2019-06-29 22:00:03 INFO admin GET 200 /api/v1/athlete/matchs/97 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 22:00:05 INFO admin GET 200 /api/v1/athlete/report/ranking/98 {}
+2019-06-29 22:00:05 INFO admin GET 200 /api/v1/athlete/linkdocs/98 {u'module_id': [u'TreatmentPlan']}
+2019-06-29 22:00:05 INFO admin GET 200 /api/v1/athlete/linkdocs/98 {u'module_id': [u'DiningStatistics']}
+2019-06-29 22:00:08 INFO admin GET 200 /api/v1/athlete/linkdocs/99 {u'module_id': [u'AnalysisReport']}
+2019-06-29 22:00:08 INFO admin GET 200 /api/v1/athlete/matchs/99 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 22:00:08 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-06-29 22:00:08 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'70f593259d5c18eeb399924b3ab55885'], u'fitness_item_id': [u'C201']}
+2019-06-29 22:00:11 INFO admin GET 200 /api/v1/athlete/linkdocs/101 {u'module_id': [u'AnalysisReport']}
+2019-06-29 22:00:11 INFO admin GET 200 /api/v1/athlete/matchs/101 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 22:00:11 INFO admin GET 200 /api/v1/athlete/linkdocs/101 {u'module_id': [u'DiningStatistics']}
+2019-06-29 22:00:12 INFO admin GET 200 /api/v1/athlete/matchs/102 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 22:00:13 INFO admin GET 200 /api/v1/athlete/linkdocs/102 {u'module_id': [u'AnalysisReport']}
+2019-06-29 22:00:13 INFO admin GET 200 /api/v1/athlete/linkdocs/102 {u'module_id': [u'TrainingProgram']}
+2019-06-29 22:00:13 INFO admin GET 200 /api/v1/athlete/linkdocs/102 {u'module_id': [u'SportmanSummary']}
+2019-06-29 22:00:15 INFO admin GET 200 /api/v1/athlete/report/ranking/101 {}
+2019-06-29 22:00:15 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-06-29 22:00:17 INFO admin GET 200 /api/v1/athlete/114 {}
+2019-06-29 22:00:17 INFO admin GET 200 /api/v1/athlete/linkdocs/114 {u'module_id': [u'DiningStatistics']}
+2019-06-29 22:00:19 INFO admin GET 200 /api/v1/athlete/matchs/115 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 22:00:19 INFO admin GET 200 /api/v1/athlete/matchs/115 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-06-29 22:00:24 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-06-29 22:00:24 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-06-29 22:30:41 INFO admin GET 200 /api/v1/matchinfo/report/scores {u'game': [u'1'], u'match_id': [u'2019_0523_0001']}
+2019-06-29 22:50:34 INFO admin GET 200 /api/v1/companylist {}
+2019-06-29 22:50:35 INFO admin GET 200 /api/v1/athlete/report/ranking/23 {}
+2019-06-29 22:50:35 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TreatmentPlan']}
+2019-06-29 22:50:35 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'SportmanSummary']}
+2019-06-29 22:50:36 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'AnalysisReport']}
+2019-06-29 22:50:36 INFO admin GET 200 /api/v1/athlete/overview/37 {}
+2019-06-29 22:50:36 INFO admin GET 200 /api/v1/athlete/linkdocs/37 {u'module_id': [u'TreatmentPlan']}

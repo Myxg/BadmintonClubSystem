@@ -1,0 +1,75 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-26 14:13+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: rest_framework_jwt/authentication.py:35 rest_framework_jwt/serializers.py:89
+msgid "Signature has expired."
+msgstr "签名已过期."
+
+#: rest_framework_jwt/authentication.py:38 rest_framework_jwt/serializers.py:92
+msgid "Error decoding signature."
+msgstr "解码签名时出错."
+
+#: rest_framework_jwt/authentication.py:55
+msgid "Invalid payload."
+msgstr "无效的负载."
+
+#: rest_framework_jwt/authentication.py:61
+msgid "Invalid signature."
+msgstr "签名无效"
+
+#: rest_framework_jwt/authentication.py:65 rest_framework_jwt/serializers.py:55
+#: rest_framework_jwt/serializers.py:113
+msgid "User account is disabled."
+msgstr "用户帐户已被禁用。"
+
+#: rest_framework_jwt/authentication.py:94
+msgid "Invalid Authorization header. No credentials provided."
+msgstr "无效的授权标头。没有提供凭证."
+
+#: rest_framework_jwt/authentication.py:97
+msgid ""
+"Invalid Authorization header. Credentials string should not contain spaces."
+msgstr "无效的授权标头。 凭据字符串不应包含空格。"
+
+#: rest_framework_jwt/serializers.py:65
+msgid "Unable to log in with provided credentials."
+msgstr "无法使用提供的凭据登录。"
+
+#: rest_framework_jwt/serializers.py:68
+#, python-brace-format
+msgid "Must include \"{username_field}\" and \"password\"."
+msgstr "必须包含\"{username_field} \"和\"密码\"。"
+
+#: rest_framework_jwt/serializers.py:102
+#, fuzzy, python-brace-format
+#| msgid "Invalid payload."
+msgid "Invalid payload \"{username}\"."
+msgstr "无效的负载."
+
+#: rest_framework_jwt/serializers.py:109
+msgid "User doesn't exist."
+msgstr "用户不存在."
+
+#: rest_framework_jwt/serializers.py:161
+msgid "Refresh has expired."
+msgstr "Token 刷新已过期。请重新登陆."
+
+#: rest_framework_jwt/serializers.py:164
+msgid "orig_iat field is required."
+msgstr "orig_iat字段是必需的."

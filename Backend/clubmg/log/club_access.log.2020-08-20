@@ -1,0 +1,8 @@
+2020-09-01 23:36:35 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'99999']}
+2020-09-01 23:36:35 INFO admin GET 200 /api/v1/athlete/overview/23 {}
+2020-09-01 23:36:35 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingMonitor']}
+2020-09-01 23:36:35 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2020-09-01 23:36:36 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'08fa638e854e6cac1dcabde05ea0902f'], u'fitness_item_id': [u'C201']}
+2020-09-01 23:36:50 INFO admin GET 200 /api/v1/athlete/42 {}
+2020-09-01 23:36:58 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'3bd7b0ffacac3cdab796627c2d3b69b8'], u'fitness_item_id': [u'C204']}
+2020-09-01 23:36:58 INFO admin GET 200 /api/v1/athlete/fitness/datas {u'athlete_id': [u'3bd7b0ffacac3cdab796627c2d3b69b8'], u'fitness_item_id': [u'C207']}

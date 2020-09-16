@@ -1,0 +1,6 @@
+2019-07-16 07:54:44 INFO admin GET 200 /api/v1/matchinfo/report/scores {u'game': [u'1'], u'match_id': [u'2019_0311_0000']}
+2019-07-16 07:54:44 INFO admin GET 200 /api/v1/matchinfo/report/beats {u'game': [u'1'], u'match_id': [u'2019_0311_0000']}
+2019-07-16 07:55:32 INFO admin GET 200 /api/v1/matchinfo/report/scores/table {u'table_type': [u'beat'], u'match_id': [u'2019_0311_0000']}
+2019-07-16 09:02:38 INFO admin GET 200 /api/v1/matchinfo/report/scores/table {u'table_type': [u'beat'], u'match_id': [u'2019_0531_0000']}
+2019-07-16 09:02:39 INFO admin GET 200 /api/v1/matchinfo/report/scores/table {u'table_type': [u'beat'], u'match_id': [u'2019_0531_0000']}
+2019-07-16 09:07:09 INFO admin GET 200 /api/v1/matchinfo/report/double/serve {u'end_zone': [u'22'], u'player': [u''], u'game': [u''], u'start_zone': [u'left'], u'match_id': [u'2019_0531_0000']}

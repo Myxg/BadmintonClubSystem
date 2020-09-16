@@ -1,0 +1,1 @@
+ select athlete_info.name,physical_fitness_items.item_name,physical_fitness_data.fitness_test_date,physical_fitness_data.fitness_test_value from physical_fitness_data left join athlete_info on physical_fitness_data.athlete_id=athlete_info.athlete_id left join physical_fitness_items on physical_fitness_data.fitness_item_id=physical_fitness_items.item_id;

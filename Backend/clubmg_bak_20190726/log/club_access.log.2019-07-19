@@ -1,0 +1,35 @@
+2019-07-21 20:35:22 INFO admin GET 200 /api/v1/athlete/matchs/23 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-07-21 20:35:22 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'AnalysisReport']}
+2019-07-21 20:35:22 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingProgram']}
+2019-07-21 20:35:22 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'BodyMonitor']}
+2019-07-21 20:35:22 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-21 20:38:34 INFO admin GET 200 /api/v1/companylist {}
+2019-07-21 20:38:34 INFO admin GET 200 /api/v1/athlete/overview/23 {}
+2019-07-21 20:38:34 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'AnalysisReport']}
+2019-07-21 20:38:34 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingProgram']}
+2019-07-21 20:38:34 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'BodyMonitor']}
+2019-07-21 20:38:34 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-21 20:38:49 INFO admin GET 200 /api/v1/groups {}
+2019-07-21 20:41:42 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-21 20:42:54 INFO admin POST 200 /api/v1/group/27 {u'permission_ids': [], u'user_ids': [], u'name': u'\u7efc\u5408\u7ba1\u7406', u'company_ids': [], u'athlete_ids': []} {"msg":"成功","status_code":0,"data":""}
+2019-07-21 20:42:54 INFO admin GET 200 /api/v1/groups {}
+2019-07-21 20:43:44 INFO admin GET 200 /api/v1/users {u'page': [u'1'], u'page_size': [u'20']}
+2019-07-21 20:43:53 INFO admin GET 200 /api/v1/companylist {}
+2019-07-21 20:43:53 INFO admin GET 200 /api/v1/athlete/matchs/23 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-07-21 20:43:53 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingMonitor']}
+2019-07-21 20:43:53 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TreatmentPlan']}
+2019-07-21 20:43:53 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'DiningStatistics']}
+2019-07-21 20:43:53 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-21 20:44:13 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-21 20:44:44 INFO admin GET 200 /api/v1/athlete/groups {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-21 20:44:44 INFO admin GET 200 /api/v1/permissions {}
+2019-07-21 20:45:06 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-21 20:45:38 ERROR admin PUT 400 /api/v1/useradd {u'username': u'liuyang', u'password': u'222', u'email': u'123@qq.com', u'user_type': 1} {"msg":"参数错误","status_code":2001,"data":"","detail":[{"username":["已存在一位使用该名字的用户。"]}]}
+2019-07-21 20:45:51 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-21 20:45:59 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-21 21:04:06 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'99999']}
+2019-07-21 21:08:02 INFO admin GET 200 /api/v1/users {}
+2019-07-21 21:21:53 ERROR AnonymousUser GET 401 /api/v1/matchinfo/report/scores/table {u'table_type': [u'time'], u'match_id': [u'2019_0531_0000']} {"status_code":401,"detail":"签名已过期."}
+2019-07-21 21:21:54 ERROR AnonymousUser GET 401 /api/v1/matchinfo/report/scores/table {u'table_type': [u'time'], u'match_id': [u'2019_0531_0000']} {"status_code":401,"detail":"签名已过期."}
+2019-07-21 21:24:58 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'9999']}
+2019-07-21 22:10:38 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'9999']}

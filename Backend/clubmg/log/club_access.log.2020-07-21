@@ -1,0 +1,15 @@
+2020-07-22 13:34:58 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2020-07-22 13:35:01 INFO admin GET 200 /api/v1/athlete/323 {}
+2020-07-22 13:35:16 INFO admin GET 200 /api/v1/companylist {}
+2020-07-22 14:30:19 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u5b89\u4e1c\u68ee']}
+2020-07-22 14:30:21 INFO admin GET 200 /api/v1/athlete/329 {}
+2020-07-22 14:30:39 INFO admin GET 200 /api/v1/companylist {}
+2020-07-22 14:30:54 INFO admin GET 200 /api/v1/users {u'username': [u'admin'], u'page': [u'1'], u'page_size': [u'10']}
+2020-07-22 14:48:11 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u5b89\u4e1c\u68ee']}
+2020-07-22 14:51:26 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2020-07-22 14:58:05 INFO admin GET 200 /api/v1/athlete/329 {}
+2020-07-22 15:27:01 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2020-07-22 15:27:10 INFO admin GET 200 /api/v1/users {u'username': [u'admin'], u'page': [u'1'], u'page_size': [u'10']}
+2020-07-22 15:27:21 INFO admin GET 200 /api/v1/companylist {}
+2020-07-22 15:30:59 INFO admin GET 200 /api/v1/companylist {}
+2020-07-22 15:31:22 INFO admin GET 200 /api/v1/companylist {}

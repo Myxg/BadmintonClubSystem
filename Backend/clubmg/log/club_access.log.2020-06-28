@@ -1,0 +1,5 @@
+2020-06-29 19:39:00 INFO admin GET 200 /api/v1/videos {u'filter': [u'tactics_analyze'], u'key': [u''], u'page_size': [u'999'], u'page': [u'1']}
+2020-06-29 19:39:03 INFO admin GET 200 /api/v1/matchinfo/39 {}
+2020-06-29 19:39:04 INFO admin GET 200 /api/v1/matchinfo/report/scores/table {u'table_type': [u'beat'], u'match_id': [u'2019_0709_0000']}
+2020-06-29 19:39:04 INFO admin GET 200 /api/v1/matchinfo/report/double/start5beat {u'zone_end': [u''], u'player': [u'a1'], u'game': [u'1'], u'match_id': [u'2019_0709_0000'], u'beat': [u'2'], u'zone_start': [u'1']}
+2020-06-29 19:41:16 INFO admin GET 200 /api/v1/matchinfo/report/beats {u'game': [u'2'], u'match_id': [u'2019_0709_0000']}

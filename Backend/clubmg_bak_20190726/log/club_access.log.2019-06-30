@@ -1,0 +1,173 @@
+2019-07-01 09:00:52 INFO AnonymousUser POST 200 /api/v1/token-auth {u'username': u'admin', u'password': u'admin123456'} {"status_code":0,"username":"admin","id":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ6aHV6aHVAYWRtaW4uY29tIiwiZXhwIjoxNTYyMDI5MjUyfQ.qxObrd8kkWJATHfDpJB8IFL6Za7deQ_3Kz4Gq2BryRM","expires_at":"2019-07-02T09:00:52.693793","issued_at":"2019-07-01T09:00:52.693803"}
+2019-07-01 09:01:07 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 09:01:21 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'35'], u'page_size': [u'15']}
+2019-07-01 09:01:24 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'33'], u'page_size': [u'15']}
+2019-07-01 09:01:28 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 09:01:30 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'3'], u'page_size': [u'15']}
+2019-07-01 09:01:31 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'4'], u'page_size': [u'15']}
+2019-07-01 09:01:32 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'5'], u'page_size': [u'15']}
+2019-07-01 09:01:32 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'6'], u'page_size': [u'15']}
+2019-07-01 09:01:34 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'7'], u'page_size': [u'15']}
+2019-07-01 09:01:35 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'9'], u'page_size': [u'15']}
+2019-07-01 09:01:50 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'34'], u'page_size': [u'15']}
+2019-07-01 09:01:52 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'32'], u'page_size': [u'15']}
+2019-07-01 09:01:58 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'30'], u'page_size': [u'15']}
+2019-07-01 09:02:01 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'29'], u'page_size': [u'15']}
+2019-07-01 09:02:03 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'28'], u'page_size': [u'15']}
+2019-07-01 09:02:04 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'27'], u'page_size': [u'15']}
+2019-07-01 09:02:05 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'26'], u'page_size': [u'15']}
+2019-07-01 09:02:06 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'25'], u'page_size': [u'15']}
+2019-07-01 09:02:07 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'24'], u'page_size': [u'15']}
+2019-07-01 09:02:09 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'23'], u'page_size': [u'15']}
+2019-07-01 09:02:10 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'22'], u'page_size': [u'15']}
+2019-07-01 09:02:11 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'20'], u'page_size': [u'15']}
+2019-07-01 09:02:12 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'19'], u'page_size': [u'15']}
+2019-07-01 09:58:48 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":606,"match_type":"男单","athlete_id":"214997c1ccb5bfac5f5590cfae424df0","athlete":"桃田贤斗","ranking":1,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T09:58:49","updated_at":"2019-07-01T09:58:49"}}
+2019-07-01 09:59:45 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":608,"match_type":"男单","athlete_id":"f08260163066f0564eae1da57e96ffab","athlete":"阿赛尔森","ranking":3,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T09:59:45","updated_at":"2019-07-01T09:59:45"}}
+2019-07-01 09:59:45 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 09:59:56 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":609,"match_type":"男单","athlete_id":"f0321681302bda6a42c6a849646ed00d","athlete":"周天成","ranking":4,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T09:59:56","updated_at":"2019-07-01T09:59:56"}}
+2019-07-01 09:59:56 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 10:00:16 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":610,"match_type":"男单","athlete_id":"a25a03087a5c99e7ce78c5dcfba7df2d","athlete":"谌龙","ranking":5,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T10:00:16","updated_at":"2019-07-01T10:00:16"}}
+2019-07-01 10:00:16 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:33:27 INFO AnonymousUser POST 200 /api/v1/token-auth {u'username': u'admin', u'password': u'admin123456'} {"status_code":0,"username":"admin","id":1,"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFkbWluIiwidXNlcl9pZCI6MSwiZW1haWwiOiJ6aHV6aHVAYWRtaW4uY29tIiwiZXhwIjoxNTYyMDM4NDA3fQ.NTV4_jY1NO1eznIItfv5iaq8TYaBccg7CNTAIJ-UjNQ","expires_at":"2019-07-02T11:33:27.468315","issued_at":"2019-07-01T11:33:27.468323"}
+2019-07-01 11:33:27 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u7537\u5355']}
+2019-07-01 11:33:30 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u5973\u5355']}
+2019-07-01 11:33:31 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u7537\u53cc']}
+2019-07-01 11:33:32 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u5973\u53cc']}
+2019-07-01 11:33:33 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u6df7\u53cc']}
+2019-07-01 11:33:40 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:34:28 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":611,"match_type":"男单","athlete_id":"ac14c2fc04f71d502e37f671f42b4c45","athlete":"孙完虎","ranking":6,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:34:28","updated_at":"2019-07-01T11:34:28"}}
+2019-07-01 11:34:28 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:34:45 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":612,"match_type":"男单","athlete_id":"7d08abbc70d482f28f19c54ad5944887","athlete":"乔纳坦·克里斯蒂","ranking":7,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:34:45","updated_at":"2019-07-01T11:34:45"}}
+2019-07-01 11:34:45 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:35:02 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":613,"match_type":"男单","athlete_id":"c1bfb17886d4a4ee0f6da1d29a06b5c9","athlete":"安东尼·西尼苏卡·金廷","ranking":8,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:35:03","updated_at":"2019-07-01T11:35:03"}}
+2019-07-01 11:35:02 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:35:19 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":614,"match_type":"男单","athlete_id":"bbc08b07f7c77f226e3f59b53cc534df","athlete":"斯里坎斯","ranking":9,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:35:19","updated_at":"2019-07-01T11:35:19"}}
+2019-07-01 11:35:19 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:35:30 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":615,"match_type":"男单","athlete_id":"c692a87972a87157df5d070dc348f412","athlete":"西本拳太","ranking":10,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:35:30","updated_at":"2019-07-01T11:35:30"}}
+2019-07-01 11:35:30 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:35:42 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:35:54 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":617,"match_type":"男单","athlete_id":"7ef4f33acb2fe2ce4c65699afaacc9a5","athlete":"沙米","ranking":12,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:35:54","updated_at":"2019-07-01T11:35:54"}}
+2019-07-01 11:35:54 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:36:11 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":618,"match_type":"男单","athlete_id":"b7d1727ce4bd693bb645fd7e46604b07","athlete":"安德斯·安东森","ranking":13,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:36:11","updated_at":"2019-07-01T11:36:11"}}
+2019-07-01 11:36:11 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:36:21 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:36:48 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":620,"match_type":"男单","athlete_id":"3f976032f7a661695828baf95b27d482","athlete":"伍家朗","ranking":15,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:36:48","updated_at":"2019-07-01T11:36:48"}}
+2019-07-01 11:36:48 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:37:00 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":621,"match_type":"男单","athlete_id":"08fa638e854e6cac1dcabde05ea0902f","athlete":"林丹","ranking":16,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:37:00","updated_at":"2019-07-01T11:37:00"}}
+2019-07-01 11:37:00 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:37:24 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":622,"match_type":"男单","athlete_id":"084d9e3851bbe2380352e9e55c2e119a","athlete":"坎塔蓬","ranking":17,"announcemented_at":"2019-06-17T00:00:00","created_at":"2019-07-01T11:37:25","updated_at":"2019-07-01T11:37:25"}}
+2019-07-01 11:37:24 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:37:32 INFO admin POST 200 /api/v1/athlete/worldranking/622 {u'ranking': 17, u'announcemented_at': u'2019-06-11 00:00:00', u'match_type': u'0', u'id': 622, u'athlete_id': u'084d9e3851bbe2380352e9e55c2e119a'} {"msg":"成功","status_code":0,"data":{"id":622,"match_type":"男单","athlete_id":"084d9e3851bbe2380352e9e55c2e119a","athlete":"坎塔蓬","ranking":17,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:37:25","updated_at":"2019-07-01T11:37:32"}}
+2019-07-01 11:37:32 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:37:50 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":623,"match_type":"男单","athlete_id":"35d6aeb1856f1e67b84307c29872c0cd","athlete":"科希特","ranking":18,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:37:50","updated_at":"2019-07-01T11:37:50"}}
+2019-07-01 11:37:50 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:38:09 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":624,"match_type":"男单","athlete_id":"8e0f32ed82e9406e94ba58716dd78258","athlete":"陆光祖","ranking":19,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:38:10","updated_at":"2019-07-01T11:38:10"}}
+2019-07-01 11:38:09 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:38:26 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":625,"match_type":"男单","athlete_id":"9eb7b7371958fbf68d6105b6a0f6941c","athlete":"李梓嘉","ranking":20,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:38:27","updated_at":"2019-07-01T11:38:27"}}
+2019-07-01 11:38:26 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:38:45 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":626,"match_type":"男单","athlete_id":"3c09c1c38c3f64e680d7b72387c03385","athlete":"黄宇翔","ranking":30,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:38:45","updated_at":"2019-07-01T11:38:45"}}
+2019-07-01 11:38:45 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:39:15 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":628,"match_type":"男单","athlete_id":"ac3abc1f179e7fa3dfdb6bce0821e8c4","athlete":"周泽奇","ranking":50,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:39:15","updated_at":"2019-07-01T11:39:15"}}
+2019-07-01 11:39:15 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:39:31 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:40:17 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":256,"match_type":"男单","athlete_id":"f7d87025ab85fe68b41ebb4ebaf03766","athlete":"石宇奇","ranking":7,"points":9911,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:40:18","updated_at":"2019-07-01T11:40:18"}}
+2019-07-01 11:40:18 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:40:43 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":257,"match_type":"男单","athlete_id":"f08260163066f0564eae1da57e96ffab","athlete":"阿赛尔森","ranking":13,"points":8678,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:40:44","updated_at":"2019-07-01T11:40:44"}}
+2019-07-01 11:40:43 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:40:57 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":258,"match_type":"男单","athlete_id":"a25a03087a5c99e7ce78c5dcfba7df2d","athlete":"谌龙","ranking":16,"points":8060,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:40:58","updated_at":"2019-07-01T11:40:58"}}
+2019-07-01 11:40:57 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:41:18 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":259,"match_type":"男单","athlete_id":"ac14c2fc04f71d502e37f671f42b4c45","athlete":"孙完虎","ranking":3,"points":13278,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:41:19","updated_at":"2019-07-01T11:41:19"}}
+2019-07-01 11:41:18 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:41:41 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":260,"match_type":"男单","athlete_id":"7d08abbc70d482f28f19c54ad5944887","athlete":"乔纳坦·克里斯蒂","ranking":1,"points":20318,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:41:41","updated_at":"2019-07-01T11:41:41"}}
+2019-07-01 11:41:41 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:42:01 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":261,"match_type":"男单","athlete_id":"c1bfb17886d4a4ee0f6da1d29a06b5c9","athlete":"安东尼·西尼苏卡·金廷","ranking":2,"points":16422,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:42:01","updated_at":"2019-07-01T11:42:01"}}
+2019-07-01 11:42:01 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:42:27 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:42:57 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":263,"match_type":"男单","athlete_id":"43c584773f6d8699610717c45c4de92c","athlete":"常山干太","ranking":23,"points":6570,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:42:58","updated_at":"2019-07-01T11:42:58"}}
+2019-07-01 11:42:58 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:43:21 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":264,"match_type":"男单","athlete_id":"7ef4f33acb2fe2ce4c65699afaacc9a5","athlete":"沙米","ranking":14,"points":8219,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:43:21","updated_at":"2019-07-01T11:43:21"}}
+2019-07-01 11:43:21 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:43:39 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":265,"match_type":"男单","athlete_id":"ba9d6e3448b7ab31212e1ab41b78c311","athlete":"汤米·苏吉亚托","ranking":21,"points":6600,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:43:39","updated_at":"2019-07-01T11:43:39"}}
+2019-07-01 11:44:02 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":266,"match_type":"男单","athlete_id":"3f976032f7a661695828baf95b27d482","athlete":"伍家朗","ranking":4,"points":13252,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:44:03","updated_at":"2019-07-01T11:44:03"}}
+2019-07-01 11:44:02 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:44:16 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":267,"match_type":"男单","athlete_id":"08fa638e854e6cac1dcabde05ea0902f","athlete":"林丹","ranking":12,"points":8750,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:44:16","updated_at":"2019-07-01T11:44:16"}}
+2019-07-01 11:44:16 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:44:35 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":268,"match_type":"男单","athlete_id":"084d9e3851bbe2380352e9e55c2e119a","athlete":"坎塔蓬","ranking":17,"points":7939,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:44:36","updated_at":"2019-07-01T11:44:36"}}
+2019-07-01 11:44:35 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:45:02 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":269,"match_type":"男单","athlete_id":"35d6aeb1856f1e67b84307c29872c0cd","athlete":"科希特","ranking":101,"points":1670,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:45:02","updated_at":"2019-07-01T11:45:02"}}
+2019-07-01 11:45:02 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:45:32 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":270,"match_type":"男单","athlete_id":"8e0f32ed82e9406e94ba58716dd78258","athlete":"陆光祖","ranking":53,"points":3340,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:45:33","updated_at":"2019-07-01T11:45:33"}}
+2019-07-01 11:45:32 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:45:59 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":271,"match_type":"男单","athlete_id":"9eb7b7371958fbf68d6105b6a0f6941c","athlete":"李梓嘉","ranking":6,"points":10605,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:45:59","updated_at":"2019-07-01T11:45:59"}}
+2019-07-01 11:45:59 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:46:14 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":272,"match_type":"男单","athlete_id":"3c09c1c38c3f64e680d7b72387c03385","athlete":"黄宇翔","ranking":101,"points":1670,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:46:14","updated_at":"2019-07-01T11:46:14"}}
+2019-07-01 11:46:14 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:46:25 INFO admin PUT 200 /api/v1/athlete/olympicranking/0 {} {"msg":"成功","status_code":0,"data":{"id":273,"match_type":"男单","athlete_id":"8091ae6ce6074eea94384947d88b518d","athlete":"赵俊鹏","ranking":101,"points":1670,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:46:25","updated_at":"2019-07-01T11:46:25"}}
+2019-07-01 11:46:25 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:46:35 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:46:43 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u7537\u5355']}
+2019-07-01 11:46:46 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u5973\u5355']}
+2019-07-01 11:46:48 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u7537\u5355']}
+2019-07-01 11:47:42 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-01 11:48:01 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u5355']}
+2019-07-01 11:48:02 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u53cc']}
+2019-07-01 11:48:03 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u5355']}
+2019-07-01 11:48:17 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u7537\u5355']}
+2019-07-01 11:49:53 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:10 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:10 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:21 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":629,"match_type":"女单","athlete_id":"ee83eb33a32e5f21f70eef68ea4e6e67","athlete":"戴资颖","ranking":1,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:50:21","updated_at":"2019-07-01T11:50:21"}}
+2019-07-01 11:50:21 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:28 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:28 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:34 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":630,"match_type":"女单","athlete_id":"3bd7b0ffacac3cdab796627c2d3b69b8","athlete":"陈雨菲","ranking":2,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:50:35","updated_at":"2019-07-01T11:50:35"}}
+2019-07-01 11:50:34 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:43 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:50:43 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:51:28 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":631,"match_type":"女单","athlete_id":"386704c6b9523e7ca0db18f75a5e0ece","athlete":"奥原希望","ranking":3,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:51:29","updated_at":"2019-07-01T11:51:29"}}
+2019-07-01 11:51:28 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:51:35 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:51:35 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:51:55 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":632,"match_type":"女单","athlete_id":"7a83c0ef7011148119a11dac3fd3b423","athlete":"山口茜","ranking":4,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:51:56","updated_at":"2019-07-01T11:51:56"}}
+2019-07-01 11:51:55 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:04 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:05 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:15 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":633,"match_type":"女单","athlete_id":"aa81178befb551f0584ff14c886c5869","athlete":"普萨拉·文卡塔·辛德胡","ranking":5,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:52:16","updated_at":"2019-07-01T11:52:16"}}
+2019-07-01 11:52:15 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:20 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:27 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":634,"match_type":"女单","athlete_id":"776722455dbb2722754e71eee38921fa","athlete":"何冰娇","ranking":6,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:52:27","updated_at":"2019-07-01T11:52:27"}}
+2019-07-01 11:52:27 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:30 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:31 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:44 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":635,"match_type":"女单","athlete_id":"8dbfae9bbf5699fe6716d1607ddaa058","athlete":"拉特查诺•因达农","ranking":7,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:52:44","updated_at":"2019-07-01T11:52:44"}}
+2019-07-01 11:52:44 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:48 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:48 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:52:59 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":636,"match_type":"女单","athlete_id":"fb912d7d595bbc7d0ed31948854fdf65","athlete":"卡罗琳娜·马林·马丁","ranking":8,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:52:59","updated_at":"2019-07-01T11:52:59"}}
+2019-07-01 11:52:59 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:53:03 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:53:03 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:53:17 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":637,"match_type":"女单","athlete_id":"eac8b8489e6f6ff9e6a8bcc1b600d8b0","athlete":"内瓦尔·塞娜","ranking":9,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:53:17","updated_at":"2019-07-01T11:53:17"}}
+2019-07-01 11:53:17 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:53:24 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-01 11:53:31 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:53:31 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:53:55 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":638,"match_type":"女单","athlete_id":"49c49801ec604534208f016b66eba178","athlete":"成池铉","ranking":10,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:53:56","updated_at":"2019-07-01T11:53:56"}}
+2019-07-01 11:53:59 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:53:59 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:54:17 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":639,"match_type":"女单","athlete_id":"43fa56868e8bc3de4f69236b0fbdc1c1","athlete":"张蓓雯","ranking":11,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:54:17","updated_at":"2019-07-01T11:54:17"}}
+2019-07-01 11:54:21 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:54:21 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:54:32 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":640,"match_type":"女单","athlete_id":"6e9eaf85b55b9d80bfc8826d84c7daa1","athlete":"李雪芮","ranking":12,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:54:32","updated_at":"2019-07-01T11:54:32"}}
+2019-07-01 11:54:32 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:54:36 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:54:36 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:54:45 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":641,"match_type":"女单","athlete_id":"89f6968ea8273eb062fa9741b4e8b937","athlete":"韩悦","ranking":13,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:54:45","updated_at":"2019-07-01T11:54:45"}}
+2019-07-01 11:54:45 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:54:49 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:55:00 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":642,"match_type":"女单","athlete_id":"09430a808398139da08914ba69dc7ed8","athlete":"格蕾戈丽亚·玛丽斯卡","ranking":14,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:55:00","updated_at":"2019-07-01T11:55:00"}}
+2019-07-01 11:55:00 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:55:02 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:55:02 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u5973\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-01 11:55:14 INFO admin PUT 200 /api/v1/athlete/worldranking/0 {} {"msg":"成功","status_code":0,"data":{"id":643,"match_type":"女单","athlete_id":"ee948a084886b5152fd6f272d5fcd8a8","athlete":"李文珊","ranking":15,"announcemented_at":"2019-06-11T00:00:00","created_at":"2019-07-01T11:55:14","updated_at":"2019-07-01T11:55:14"}}

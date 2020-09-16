@@ -1,0 +1,24 @@
+2020-06-18 15:24:18 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 15:24:40 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 15:34:39 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 15:34:39 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 15:40:15 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 15:40:18 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 15:43:32 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 15:43:47 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 15:43:58 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'\u56ed\u7530\u542f\u609f']}
+2020-06-18 15:43:59 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 15:44:19 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2020-06-18 15:44:22 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 15:44:35 INFO shenyang GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2020-06-18 15:48:59 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 15:49:19 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 15:49:22 INFO shenyang GET 200 /api/v1/athlete/485 {}
+2020-06-18 15:49:45 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 15:49:48 INFO shenyang GET 200 /api/v1/athlete/486 {}
+2020-06-18 16:00:52 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 16:00:55 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 16:01:13 INFO shenyang GET 200 /api/v1/users {u'username': [u'shenyang'], u'page': [u'1'], u'page_size': [u'10']}
+2020-06-18 16:01:16 INFO shenyang GET 200 /api/v1/athlete/181 {}
+2020-06-18 16:01:42 INFO shenyang GET 200 /api/v1/companylist {}
+2020-06-18 16:01:46 INFO shenyang GET 200 /api/v1/athlete/182 {}

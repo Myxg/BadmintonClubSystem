@@ -1,0 +1,46 @@
+2019-07-03 07:59:57 INFO admin GET 200 /api/v1/athlete/report/ranking/23 {}
+2019-07-03 07:59:57 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TrainingMonitor']}
+2019-07-03 07:59:57 INFO admin GET 200 /api/v1/athlete/linkdocs/23 {u'module_id': [u'TreatmentPlan']}
+2019-07-03 07:59:59 INFO admin GET 200 /api/v1/athlete/report/ranking/11 {}
+2019-07-03 07:59:59 INFO admin GET 200 /api/v1/athlete/linkdocs/11 {u'module_id': [u'TrainingProgram']}
+2019-07-03 07:59:59 INFO admin GET 200 /api/v1/athlete/linkdocs/11 {u'module_id': [u'SportmanSummary']}
+2019-07-03 08:00:02 INFO admin GET 200 /api/v1/athlete/linkdocs/38 {u'module_id': [u'TrainingMonitor']}
+2019-07-03 08:00:02 INFO admin GET 200 /api/v1/athlete/fitness/items {}
+2019-07-03 08:00:02 INFO admin GET 200 /api/v1/athlete/linkdocs/38 {u'module_id': [u'TrainingProgram']}
+2019-07-03 08:00:02 INFO admin GET 200 /api/v1/athlete/matchs/38 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-07-03 08:00:05 INFO admin GET 200 /api/v1/athlete/linkdocs/70 {u'module_id': [u'AnalysisReport']}
+2019-07-03 08:00:05 INFO admin GET 200 /api/v1/athlete/linkdocs/70 {u'module_id': [u'TrainingMonitor']}
+2019-07-03 08:00:05 INFO admin GET 200 /api/v1/athlete/linkdocs/70 {u'module_id': [u'TrainingProgram']}
+2019-07-03 08:00:05 INFO admin GET 200 /api/v1/athlete/matchs/70 {u'filter': [u'scores'], u'page_size': [u'999'], u'page': [u'1'], u'key': [u'']}
+2019-07-03 09:06:06 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 09:07:11 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 09:26:11 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 09:27:47 INFO admin GET 200 /api/v1/groups {}
+2019-07-03 11:06:52 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'3'], u'page_size': [u'15']}
+2019-07-03 11:08:59 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-03 11:10:00 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-03 11:11:17 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u7537\u5355'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-03 11:11:55 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-03 11:12:27 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-03 11:15:27 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-03 11:15:48 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-03 11:21:20 INFO admin GET 200 /api/v1/athletes {u'sport_project': [u'\u6df7\u53cc'], u'page': [u'1'], u'page_size': [u'1000']}
+2019-07-03 11:25:59 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-03 11:27:17 INFO admin GET 200 /api/v1/athlete/olympicrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-03 11:29:40 INFO admin GET 200 /api/v1/athlete/report/olympicranking {u'match_type': [u'\u5973\u5355']}
+2019-07-03 11:35:11 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 12:48:08 INFO admin GET 200 /api/v1/matchlevel2list {}
+2019-07-03 13:03:59 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 13:06:00 INFO admin GET 200 /api/v1/companylist {}
+2019-07-03 13:09:13 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'9999']}
+2019-07-03 14:07:28 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 15:07:24 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 15:07:32 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'20'], u'name': [u'']}
+2019-07-03 15:07:41 INFO admin GET 200 /api/v1/athlete/341 {}
+2019-07-03 15:10:37 INFO admin GET 200 /api/v1/athlete/report/worldrank {u'match_type': [u'\u7537\u5355']}
+2019-07-03 15:10:43 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 15:12:45 INFO admin GET 200 /api/v1/matchinfos {}
+2019-07-03 15:18:19 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'9999']}
+2019-07-03 16:54:08 INFO admin GET 200 /api/v1/athletes {u'page': [u'1'], u'page_size': [u'9999']}
+2019-07-03 16:54:14 INFO admin GET 200 /api/v1/athlete/worldrankinglist {u'page': [u'1'], u'page_size': [u'15']}
+2019-07-03 17:11:46 INFO admin GET 200 /api/v1/users {u'page': [u'1'], u'page_size': [u'20']}
